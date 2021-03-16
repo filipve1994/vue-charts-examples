@@ -1,0 +1,30 @@
+- https://levelup.gitconnected.com/building-covid-19-dashboard-with-charts-js-and-vue-js-5b054443fa4
+- https://www.chartjs.org/docs/latest/
+- https://morioh.com/p/76c26601d03c
+- https://medium.com/analytics-vidhya/creating-a-covid-10-dashboard-using-cube-js-and-vuejs-17377dda5ef8
+- https://www.google.com/search?q=vue+chartjs&rlz=1C1GCEU_en&oq=vue+chartjs&aqs=chrome..69i57j0l6j69i61.1664j0j7&sourceid=chrome&ie=UTF-8
+- https://www.google.com/search?q=vuejs+covid&rlz=1C1GCEU_en&oq=vuejs+covid&aqs=chrome..69i57j35i39l2j69i60l4j69i65.1364j0j4&sourceid=chrome&ie=UTF-8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
